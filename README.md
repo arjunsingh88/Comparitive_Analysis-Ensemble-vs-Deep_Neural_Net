@@ -22,5 +22,19 @@
 ### Models 
 |Model|Architecture|
 |:---:|:---:|
-|Ensemble<br>(Random forest)|![Random forest](https://user-images.githubusercontent.com/45566835/83410670-16af1f00-a417-11ea-934e-b8b8df3e4f8c.png)|
-|Deep Neural network|![Deep Neural network](https://user-images.githubusercontent.com/45566835/83410674-1747b580-a417-11ea-934a-5e862bd69fc2.png)|
+|`Ensemble`<br>(Random forest)|![Random forest](https://user-images.githubusercontent.com/45566835/83410670-16af1f00-a417-11ea-934e-b8b8df3e4f8c.png)|
+|`Deep Neural network`|![Deep Neural network](https://user-images.githubusercontent.com/45566835/83410674-1747b580-a417-11ea-934a-5e862bd69fc2.png)|
+
+### Results
+
+|Random Forest Hyperparameter Tuned Visualization|
+|:---:|
+|![Random forest Hyperparameter tuned](https://user-images.githubusercontent.com/45566835/83796982-2b531780-a6a2-11ea-824c-5fd72f999e87.JPG)|
+
+|Neural Network Hyperparameter Tuned Visualization|
+|:---:|
+|![NN Hyper-tuned](https://user-images.githubusercontent.com/45566835/83797498-0a3ef680-a6a3-11ea-94a8-0ea5fe8b85dc.JPG)|
+
+### Conclusion
+* Computation cost V/S Accuracy 
+* Random Forest computationally less expensive but accuracy wise almost similar
